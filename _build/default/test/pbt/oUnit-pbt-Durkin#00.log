@@ -1,0 +1,162 @@
+2021-11-25T03:02:21+00:00 Durkin#00 I: Runner: processes
+2021-11-25T03:02:21+00:00 Durkin#00 I: Chooser: simple
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration suite_name = "pbt"
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration cache_filename = "/home/matt/cmsc330fall21/project4b/_build/default/test/pbt/oUnit-$(suite_name).cache"
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration run_gc_full_major = "true"
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration seed = "-1"
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration display = "true"
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration results_style_1_X = "false"
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration testdata_dir = "none"
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration health_check_interval = "1."
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration verbose = "false"
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration chooser = "simple"
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration output_html_dir = "none"
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration processes_kill_period = "5."
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration runner = "processes"
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration shards = "4"
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration processes_grace_period = "5."
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration qcheck_verbose = "true"
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration log_encoding = "utf-8"
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration output_junit_file = "none"
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration ci = "false"
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration qcheck_long = "false"
+2021-11-25T03:02:21+00:00 Durkin#00 I: Configuration output_file = "/home/matt/cmsc330fall21/project4b/_build/default/test/pbt/oUnit-$(suite_name)-$(shard_id).log"
+2021-11-25T03:02:21+00:00 Durkin#00 I: Using 4 workers maximum.
+2021-11-25T03:02:21+00:00 Durkin#00 I: Starting worker number Durkin#01.
+2021-11-25T03:02:21+00:00 Durkin#00 I: Worker Durkin#01 started.
+2021-11-25T03:02:21+00:00 Durkin#00 I: Starting worker number Durkin#02.
+2021-11-25T03:02:21+00:00 Durkin#00 I: Worker Durkin#02 started.
+2021-11-25T03:02:21+00:00 Durkin#00 I: Starting worker number Durkin#03.
+2021-11-25T03:02:21+00:00 Durkin#00 I: Worker Durkin#03 started.
+2021-11-25T03:02:21+00:00 Durkin#00 I: Starting worker number Durkin#04.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Worker Durkin#04 started.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Still 4 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 4 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2021-11-25T03:02:22+00:00 Durkin#01 I: Start test pbt:0:test_simple_def.
+2021-11-25T03:02:22+00:00 Durkin#02 I: Start test pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#03 I: Start test pbt:2:test_sum_small_ints.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Still 4 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 4 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2021-11-25T03:02:22+00:00 Durkin#01 I: 
+2021-11-25T03:02:22+00:00 Durkin#01 I: law test_simple_def: 1 relevant cases (1 total)
+2021-11-25T03:02:22+00:00 Durkin#01 I: 
+2021-11-25T03:02:22+00:00 Durkin#00 I: Still 4 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 4 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2021-11-25T03:02:22+00:00 Durkin#01 E: Test pbt:0:test_simple_def has failed.
+2021-11-25T03:02:22+00:00 Durkin#01 E: 
+2021-11-25T03:02:22+00:00 Durkin#01 E: test `test_simple_def` failed on ≥ 1 cases: 0
+2021-11-25T03:02:22+00:00 Durkin#01 E:                                               
+2021-11-25T03:02:22+00:00 Durkin#01 E:  in test pbt:0:test_simple_def.
+2021-11-25T03:02:22+00:00 Durkin#01 E: Raised at OUnitAssert.assert_failure in file "src/lib/ounit2/advanced/oUnitAssert.ml", line 45, characters 2-27
+2021-11-25T03:02:22+00:00 Durkin#01 E: Called from QCheck2.Test.check_cell in file "src/core/QCheck2.ml", line 1605, characters 4-27
+2021-11-25T03:02:22+00:00 Durkin#01 E: Called from QCheck2.Test.check_cell_exn in file "src/core/QCheck2.ml", line 1770, characters 14-53
+2021-11-25T03:02:22+00:00 Durkin#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2021-11-25T03:02:22+00:00 Durkin#01 E: 
+2021-11-25T03:02:22+00:00 Durkin#00 I: Still 4 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 4 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2021-11-25T03:02:22+00:00 Durkin#01 I: End test pbt:0:test_simple_def.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Still 4 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 4 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Still 3 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 3 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#04 I: Start test pbt:3:test_operator_precedence.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Still 3 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 3 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#04 I: 
+2021-11-25T03:02:22+00:00 Durkin#04 I: law test_operator_precedence: 1 relevant cases (1 total)
+2021-11-25T03:02:22+00:00 Durkin#04 I: 
+2021-11-25T03:02:22+00:00 Durkin#00 I: Still 3 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 3 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#04 E: Test pbt:3:test_operator_precedence has failed.
+2021-11-25T03:02:22+00:00 Durkin#04 E: 
+2021-11-25T03:02:22+00:00 Durkin#04 E: test `test_operator_precedence` failed on ≥ 1 cases:
+2021-11-25T03:02:22+00:00 Durkin#04 E: (0, 0, 0) (after 8 shrink steps)
+2021-11-25T03:02:22+00:00 Durkin#04 E: 
+2021-11-25T03:02:22+00:00 Durkin#04 E:  in test pbt:3:test_operator_precedence.
+2021-11-25T03:02:22+00:00 Durkin#04 E: Raised at OUnitAssert.assert_failure in file "src/lib/ounit2/advanced/oUnitAssert.ml", line 45, characters 2-27
+2021-11-25T03:02:22+00:00 Durkin#04 E: Called from QCheck2.Test.check_cell in file "src/core/QCheck2.ml", line 1605, characters 4-27
+2021-11-25T03:02:22+00:00 Durkin#04 E: Called from QCheck2.Test.check_cell_exn in file "src/core/QCheck2.ml", line 1770, characters 14-53
+2021-11-25T03:02:22+00:00 Durkin#04 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2021-11-25T03:02:22+00:00 Durkin#04 E: 
+2021-11-25T03:02:22+00:00 Durkin#00 I: Still 3 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 3 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#04 I: End test pbt:3:test_operator_precedence.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Still 3 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 3 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Still 2 tests running : pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 2 tests running: pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#03 I: 
+2021-11-25T03:02:22+00:00 Durkin#03 I: law test_sum_small_ints: 1000 relevant cases (1000 total)
+2021-11-25T03:02:22+00:00 Durkin#03 I: 
+2021-11-25T03:02:22+00:00 Durkin#00 I: Still 2 tests running : pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 2 tests running: pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#03 I: Test pbt:2:test_sum_small_ints is successful.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Still 2 tests running : pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 2 tests running: pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#03 I: End test pbt:2:test_sum_small_ints.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Still 2 tests running : pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 2 tests running: pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Still 1 tests running : pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 1 tests running: pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Still 1 tests running : pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 1 tests running: pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Still 1 tests running : pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 1 tests running: pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#02 I: 
+2021-11-25T03:02:22+00:00 Durkin#02 I: law test_simple_let: 1000 relevant cases (1000 total)
+2021-11-25T03:02:22+00:00 Durkin#02 I: 
+2021-11-25T03:02:22+00:00 Durkin#00 I: Still 1 tests running : pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 1 tests running: pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#02 I: Test pbt:1:test_simple_let is successful.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Still 1 tests running : pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 1 tests running: pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#02 I: End test pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Still 1 tests running : pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 1 tests running: pbt:1:test_simple_let.
+2021-11-25T03:02:22+00:00 Durkin#00 I: 0 tests running: .
+2021-11-25T03:02:22+00:00 Durkin#00 I: Worker Durkin#01 has ended.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Worker Durkin#04 has ended.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Worker Durkin#03 has ended.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Worker Durkin#02 has ended.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Used 4 worker during test execution.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Run 1 tests with shard Durkin#04.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Run 1 tests with shard Durkin#02.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Run 1 tests with shard Durkin#03.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Run 1 tests with shard Durkin#01.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Check health of shard Durkin#04, 11 times.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Check health of shard Durkin#03, 7 times.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Check health of shard Durkin#02, 1 times.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Check health of shard Durkin#01, 16 times.
+2021-11-25T03:02:22+00:00 Durkin#00 I: ==============
+2021-11-25T03:02:22+00:00 Durkin#00 I: Summary:
+2021-11-25T03:02:22+00:00 Durkin#00 I: Test pbt:1:test_simple_let is successful.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Test pbt:2:test_sum_small_ints is successful.
+2021-11-25T03:02:22+00:00 Durkin#00 E: Test pbt:3:test_operator_precedence has failed.
+2021-11-25T03:02:22+00:00 Durkin#00 E: 
+2021-11-25T03:02:22+00:00 Durkin#00 E: test `test_operator_precedence` failed on ≥ 1 cases:
+2021-11-25T03:02:22+00:00 Durkin#00 E: (0, 0, 0) (after 8 shrink steps)
+2021-11-25T03:02:22+00:00 Durkin#00 E: 
+2021-11-25T03:02:22+00:00 Durkin#00 E:  in test pbt:3:test_operator_precedence.
+2021-11-25T03:02:22+00:00 Durkin#00 E: Raised at OUnitAssert.assert_failure in file "src/lib/ounit2/advanced/oUnitAssert.ml", line 45, characters 2-27
+2021-11-25T03:02:22+00:00 Durkin#00 E: Called from QCheck2.Test.check_cell in file "src/core/QCheck2.ml", line 1605, characters 4-27
+2021-11-25T03:02:22+00:00 Durkin#00 E: Called from QCheck2.Test.check_cell_exn in file "src/core/QCheck2.ml", line 1770, characters 14-53
+2021-11-25T03:02:22+00:00 Durkin#00 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2021-11-25T03:02:22+00:00 Durkin#00 E: 
+2021-11-25T03:02:22+00:00 Durkin#00 E: Test pbt:0:test_simple_def has failed.
+2021-11-25T03:02:22+00:00 Durkin#00 E: 
+2021-11-25T03:02:22+00:00 Durkin#00 E: test `test_simple_def` failed on ≥ 1 cases: 0
+2021-11-25T03:02:22+00:00 Durkin#00 E:                                               
+2021-11-25T03:02:22+00:00 Durkin#00 E:  in test pbt:0:test_simple_def.
+2021-11-25T03:02:22+00:00 Durkin#00 E: Raised at OUnitAssert.assert_failure in file "src/lib/ounit2/advanced/oUnitAssert.ml", line 45, characters 2-27
+2021-11-25T03:02:22+00:00 Durkin#00 E: Called from QCheck2.Test.check_cell in file "src/core/QCheck2.ml", line 1605, characters 4-27
+2021-11-25T03:02:22+00:00 Durkin#00 E: Called from QCheck2.Test.check_cell_exn in file "src/core/QCheck2.ml", line 1770, characters 14-53
+2021-11-25T03:02:22+00:00 Durkin#00 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2021-11-25T03:02:22+00:00 Durkin#00 E: 
+2021-11-25T03:02:22+00:00 Durkin#00 I: Ran: 4 tests in: 0.42 seconds.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Cases: 4.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Tried: 4.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Errors: 0.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Failures: 2.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Skip: 0.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Todo: 0.
+2021-11-25T03:02:22+00:00 Durkin#00 I: Timeout: 0.

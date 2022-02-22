@@ -1,0 +1,12 @@
+2021-11-25T03:02:22+00:00 Durkin#03 I: Start test public:2:public_mutop_simple_def_and_let.
+2021-11-25T03:02:22+00:00 Durkin#03 I: Test public:2:public_mutop_simple_def_and_let is successful.
+2021-11-25T03:02:22+00:00 Durkin#03 I: End test public:2:public_mutop_simple_def_and_let.
+2021-11-25T03:02:22+00:00 Durkin#03 I: Start test public:15:public_expr_simple_sum.
+2021-11-25T03:02:22+00:00 Durkin#03 I: Test public:15:public_expr_simple_sum is successful.
+2021-11-25T03:02:22+00:00 Durkin#03 I: End test public:15:public_expr_simple_sum.
+2021-11-25T03:02:22+00:00 Durkin#03 I: Start test public:19:public_expr_single_if.
+2021-11-25T03:02:22+00:00 Durkin#03 I: Test public:19:public_expr_single_if is successful.
+2021-11-25T03:02:22+00:00 Durkin#03 I: End test public:19:public_expr_single_if.
+2021-11-25T03:02:22+00:00 Durkin#03 I: Start test public:22:public_expr_single_not.
+2021-11-25T03:02:22+00:00 Durkin#03 I: Test public:22:public_expr_single_not is successful.
+2021-11-25T03:02:22+00:00 Durkin#03 I: End test public:22:public_expr_single_not.

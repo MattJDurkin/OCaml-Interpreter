@@ -1,0 +1,27 @@
+2021-11-25T03:02:22+00:00 Durkin#04 I: Start test public:3:public_expr_add1.
+2021-11-25T03:02:22+00:00 Durkin#04 I: Test public:3:public_expr_add1 is successful.
+2021-11-25T03:02:22+00:00 Durkin#04 I: End test public:3:public_expr_add1.
+2021-11-25T03:02:22+00:00 Durkin#04 I: Start test public:8:public_expr_minus_one.
+2021-11-25T03:02:22+00:00 Durkin#04 I: Test public:8:public_expr_minus_one is successful.
+2021-11-25T03:02:22+00:00 Durkin#04 I: End test public:8:public_expr_minus_one.
+2021-11-25T03:02:22+00:00 Durkin#04 I: Start test public:10:public_expr_simple_equal.
+2021-11-25T03:02:22+00:00 Durkin#04 I: Test public:10:public_expr_simple_equal is successful.
+2021-11-25T03:02:22+00:00 Durkin#04 I: End test public:10:public_expr_simple_equal.
+2021-11-25T03:02:22+00:00 Durkin#04 I: Start test public:12:public_expr_simple_div.
+2021-11-25T03:02:22+00:00 Durkin#04 I: Test public:12:public_expr_simple_div is successful.
+2021-11-25T03:02:22+00:00 Durkin#04 I: End test public:12:public_expr_simple_div.
+2021-11-25T03:02:22+00:00 Durkin#04 I: Start test public:13:public_expr_simple_mult.
+2021-11-25T03:02:22+00:00 Durkin#04 I: Test public:13:public_expr_simple_mult is successful.
+2021-11-25T03:02:22+00:00 Durkin#04 I: End test public:13:public_expr_simple_mult.
+2021-11-25T03:02:22+00:00 Durkin#04 I: Start test public:14:public_expr_simple_sub.
+2021-11-25T03:02:22+00:00 Durkin#04 I: Test public:14:public_expr_simple_sub is successful.
+2021-11-25T03:02:22+00:00 Durkin#04 I: End test public:14:public_expr_simple_sub.
+2021-11-25T03:02:22+00:00 Durkin#04 I: Start test public:20:public_expr_single_let.
+2021-11-25T03:02:22+00:00 Durkin#04 I: Test public:20:public_expr_single_let is successful.
+2021-11-25T03:02:22+00:00 Durkin#04 I: End test public:20:public_expr_single_let.
+2021-11-25T03:02:22+00:00 Durkin#04 I: Start test public:21:public_expr_single_notequal.
+2021-11-25T03:02:22+00:00 Durkin#04 I: Test public:21:public_expr_single_notequal is successful.
+2021-11-25T03:02:22+00:00 Durkin#04 I: End test public:21:public_expr_single_notequal.
+2021-11-25T03:02:22+00:00 Durkin#04 I: Start test public:27:public_mutop_factorial.
+2021-11-25T03:02:22+00:00 Durkin#04 I: Test public:27:public_mutop_factorial is successful.
+2021-11-25T03:02:22+00:00 Durkin#04 I: End test public:27:public_mutop_factorial.

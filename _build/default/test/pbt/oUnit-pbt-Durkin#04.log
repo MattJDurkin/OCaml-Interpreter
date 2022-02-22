@@ -1,0 +1,16 @@
+2021-11-25T03:02:22+00:00 Durkin#04 I: Start test pbt:3:test_operator_precedence.
+2021-11-25T03:02:22+00:00 Durkin#04 I: 
+2021-11-25T03:02:22+00:00 Durkin#04 I: law test_operator_precedence: 1 relevant cases (1 total)
+2021-11-25T03:02:22+00:00 Durkin#04 I: 
+2021-11-25T03:02:22+00:00 Durkin#04 E: Test pbt:3:test_operator_precedence has failed.
+2021-11-25T03:02:22+00:00 Durkin#04 E: 
+2021-11-25T03:02:22+00:00 Durkin#04 E: test `test_operator_precedence` failed on ≥ 1 cases:
+2021-11-25T03:02:22+00:00 Durkin#04 E: (0, 0, 0) (after 8 shrink steps)
+2021-11-25T03:02:22+00:00 Durkin#04 E: 
+2021-11-25T03:02:22+00:00 Durkin#04 E:  in test pbt:3:test_operator_precedence.
+2021-11-25T03:02:22+00:00 Durkin#04 E: Raised at OUnitAssert.assert_failure in file "src/lib/ounit2/advanced/oUnitAssert.ml", line 45, characters 2-27
+2021-11-25T03:02:22+00:00 Durkin#04 E: Called from QCheck2.Test.check_cell in file "src/core/QCheck2.ml", line 1605, characters 4-27
+2021-11-25T03:02:22+00:00 Durkin#04 E: Called from QCheck2.Test.check_cell_exn in file "src/core/QCheck2.ml", line 1770, characters 14-53
+2021-11-25T03:02:22+00:00 Durkin#04 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2021-11-25T03:02:22+00:00 Durkin#04 E: 
+2021-11-25T03:02:22+00:00 Durkin#04 I: End test pbt:3:test_operator_precedence.

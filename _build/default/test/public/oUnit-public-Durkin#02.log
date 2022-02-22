@@ -1,0 +1,18 @@
+2021-11-25T03:02:22+00:00 Durkin#02 I: Start test public:1:public_mutop_pi_def.
+2021-11-25T03:02:22+00:00 Durkin#02 I: Test public:1:public_mutop_pi_def is successful.
+2021-11-25T03:02:22+00:00 Durkin#02 I: End test public:1:public_mutop_pi_def.
+2021-11-25T03:02:22+00:00 Durkin#02 I: Start test public:16:public_expr_single_and.
+2021-11-25T03:02:22+00:00 Durkin#02 I: Test public:16:public_expr_single_and is successful.
+2021-11-25T03:02:22+00:00 Durkin#02 I: End test public:16:public_expr_single_and.
+2021-11-25T03:02:22+00:00 Durkin#02 I: Start test public:18:public_expr_single_fun.
+2021-11-25T03:02:22+00:00 Durkin#02 I: Test public:18:public_expr_single_fun is successful.
+2021-11-25T03:02:22+00:00 Durkin#02 I: End test public:18:public_expr_single_fun.
+2021-11-25T03:02:22+00:00 Durkin#02 I: Start test public:24:public_expr_single_or.
+2021-11-25T03:02:22+00:00 Durkin#02 I: Test public:24:public_expr_single_or is successful.
+2021-11-25T03:02:22+00:00 Durkin#02 I: End test public:24:public_expr_single_or.
+2021-11-25T03:02:22+00:00 Durkin#02 I: Start test public:25:public_expr_single_string.
+2021-11-25T03:02:22+00:00 Durkin#02 I: Test public:25:public_expr_single_string is successful.
+2021-11-25T03:02:22+00:00 Durkin#02 I: End test public:25:public_expr_single_string.
+2021-11-25T03:02:22+00:00 Durkin#02 I: Start test public:28:public_mutop_nonempty_env.
+2021-11-25T03:02:22+00:00 Durkin#02 I: Test public:28:public_mutop_nonempty_env is successful.
+2021-11-25T03:02:22+00:00 Durkin#02 I: End test public:28:public_mutop_nonempty_env.
